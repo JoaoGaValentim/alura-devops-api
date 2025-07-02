@@ -74,4 +74,4 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
 ## MARVEL - aula 1
 
-##
+## Ellis - aula 2
